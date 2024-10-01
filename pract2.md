@@ -116,15 +116,14 @@
 Изучить основы программирования в ограничениях. Установить MiniZinc, разобраться с основами его синтаксиса и работы в IDE.
 Решить на MiniZinc задачу о счастливых билетах. Добавить ограничение на то, что все цифры билета должны быть различными (подсказка: используйте all_different). Найти минимальное решение для суммы 3 цифр.
 
-![image](https://github.com/user-attachments/assets/74552270-fc39-4c1c-a751-1f9bbe9b377c)
+![image](https://github.com/user-attachments/assets/8f507a71-0ef5-40db-88dd-cba9f2df6cfe)
 
 # Задача 5
 
 Решить на MiniZinc задачу о зависимостях пакетов для рисунка, приведенного ниже.
 
-![image](https://github.com/user-attachments/assets/b1074d06-fc35-408e-aa29-881703d1e252)
+![image](https://github.com/user-attachments/assets/c8c81ad1-ea3d-4fd0-ab2b-f8bceba46158)
 
 Рис 1 - Зависимости пакетов
 
-![image](https://github.com/user-attachments/assets/d8d35c7c-d93a-4dd0-bab8-0bd8da9cd7b7)
-
+![image](https://github.com/user-attachments/assets/427926b3-8f6b-4792-b0b5-52e4d1cf0462)
