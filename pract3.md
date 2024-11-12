@@ -64,8 +64,7 @@
 } 
 ```
 
-![image](https://github.com/user-attachments/assets/8450b3b4-2cfb-4f01-be0f-e42e254eb51a)
-
+![image](https://github.com/user-attachments/assets/a12c765d-ee75-4303-bf28-992244e6d5a5)
 
 ## Для решения дальнейших задач потребуется программа на Питоне, представленная ниже. Разбираться в самом языке Питон при этом необязательно.
 
