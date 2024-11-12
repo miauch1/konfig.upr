@@ -8,7 +8,11 @@
 
 Реализовать на Jsonnet приведенный ниже пример в формате JSON. Использовать в реализации свойство программируемости и принцип DRY.
 
+![image](https://github.com/user-attachments/assets/121bf7f2-0eb6-4c18-8d12-83ff996a6a51)
 
+![image](https://github.com/user-attachments/assets/6af1e23c-038e-49db-89a9-758488964c7b)
+
+![image](https://github.com/user-attachments/assets/d823649c-2808-4d6c-8b40-e492e6531bbd)
 
 # Задача 2
 
