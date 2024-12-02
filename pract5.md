@@ -71,27 +71,27 @@ LOAD_CONST - 1 (10): кладём 1 в стек
 ```
 
 ```
-  5           0 LOAD_CONST               1 (1)    //Кладём единицу в вершину стека
-              2 STORE_FAST               1 (r)    //Присваиваем r = 1
+  5           0 LOAD_CONST               1 (1)    // Кладём единицу в вершину стека
+              2 STORE_FAST               1 (r)    // Присваиваем r = 1
 
-  6     >>    4 LOAD_FAST                0 (n)    //Добавляем n в стек
+  6     >>    4 LOAD_FAST                0 (n)    // Добавляем n в стек
               6 LOAD_CONST               1 (1)    // Добавляем 1 в стек
-              8 COMPARE_OP               4 (>)    //Логический оператор > (n>1)
-             10 POP_JUMP_IF_FALSE       30        //Если результат сравнения ложь идти в 30, если нет переходим в 4
+              8 COMPARE_OP               4 (>)    // Логический оператор > (n>1)
+             10 POP_JUMP_IF_FALSE       30        // Если результат сравнения ложь идти в 30, если нет переходим в 4
 
-  7          12 LOAD_FAST                1 (r)    //Добавляем r в стек
-             14 LOAD_FAST                0 (n)    //Добавляем n в стек
-             16 INPLACE_MULTIPLY		  //r*=n
+  7          12 LOAD_FAST                1 (r)    // Добавляем r в стек
+             14 LOAD_FAST                0 (n)    // Добавляем n в стек
+             16 INPLACE_MULTIPLY		  // r*=n
              18 STORE_FAST               1 (r) 
 
-  8          20 LOAD_FAST                0 (n)    //Добавляем n в стек
-             22 LOAD_CONST               1 (1)    //Добавляем 1 в стек
-             24 INPLACE_SUBTRACT		  //n-=1
+  8          20 LOAD_FAST                0 (n)    // Добавляем n в стек
+             22 LOAD_CONST               1 (1)    // Добавляем 1 в стек
+             24 INPLACE_SUBTRACT		  // n-=1
              26 STORE_FAST               0 (n)
-             28 JUMP_ABSOLUTE            4        //Переходим в 30
+             28 JUMP_ABSOLUTE            4        // Переходим в 30
 
-  9     >>   30 LOAD_FAST                1 (r)    //Добавляем r в стек
-             32 RETURN_VALUE		          //Возвращаем r
+  9     >>   30 LOAD_FAST                1 (r)    // Добавляем r в стек
+             32 RETURN_VALUE		          // Возвращаем r
 ```
 
 __Это факториал числа__
