@@ -1,0 +1,24 @@
+server_config:
+  ip_address: "192.168.0.1"
+  port: 22
+  authorized_keys:
+    - admin: "user@domain"
+
+game_preferences:
+  resolution: "1920x1200"
+  fullscreen: true
+  key_bindings:
+    jump: "Space"
+    shoot: "LeftCtrl"
+  difficulty: "veteran"
+
+database:
+  type: "PostgreSQL"
+  host: "localhost"
+  port: 5432
+  username: "dbUser"
+  password: "dbPass"
+array_min: "#[min 5 10 1 500]"
+array_max: "#[max 1 2 5000 100]"
+array_sum: "#[+ 1 2 3 4 5 6 7 8 9 10]"
+array: [1, 2, 3, 4, 5]
