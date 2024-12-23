@@ -70,7 +70,7 @@ print(dis.dis(foo))
 ![alt-text](https://sun9-19.userapi.com/impg/dxOTiLLWHObyJj_dxvOCzRdOEccuPUhBverNYg/wChRqs4c96M.jpg?size=1850x909&quality=96&sign=0841bf49292918c27ef6bbfc986c8366&type=album)
 ![alt-text](https://sun1-92.userapi.com/impg/iwmDVkCkaBLrZ2E_3FT_9E9TL8KyYfVQk3O76Q/J4PIkob9_kU.jpg?size=1272x806&quality=96&sign=0890a78bc7f7b717638f25bee5286dce&type=album)
 ![image](https://github.com/user-attachments/assets/80faee1c-c244-4ad4-adec-de9e324e8759)
-![alt-text](https://sun1-57.userapi.com/impg/Iaz4fpfuEptPJd_IiqXhTo7txC169J0Sl85RKw/5k5esv6C0Tk.jpg?size=1281x866&quality=96&sign=24208f950364739a9f527b2d56566baf&type=album)
+![image](https://github.com/user-attachments/assets/cfe69690-dc91-40b0-a1a9-6e17d7f7b3c0)
 
 Команды:
 ```
