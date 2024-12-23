@@ -69,7 +69,7 @@ print(dis.dis(foo))
 Прислать полный список команд для установки и загрузки, а также скриншот с motd, где фигурируют ваши имя и фамилия.
 ![alt-text](https://sun9-19.userapi.com/impg/dxOTiLLWHObyJj_dxvOCzRdOEccuPUhBverNYg/wChRqs4c96M.jpg?size=1850x909&quality=96&sign=0841bf49292918c27ef6bbfc986c8366&type=album)
 ![alt-text](https://sun1-92.userapi.com/impg/iwmDVkCkaBLrZ2E_3FT_9E9TL8KyYfVQk3O76Q/J4PIkob9_kU.jpg?size=1272x806&quality=96&sign=0890a78bc7f7b717638f25bee5286dce&type=album)
-![alt-text](https://sun9-34.userapi.com/impg/_4m7usM-Sc7TXIiGncEtkLBA3z22zmiwY9fCqA/OTuDx1UBv2Y.jpg?size=1277x856&quality=96&sign=fe9a2d7a965b9dee6ac40751e37f5229&type=album)
+![image](https://github.com/user-attachments/assets/80faee1c-c244-4ad4-adec-de9e324e8759)
 ![alt-text](https://sun1-57.userapi.com/impg/Iaz4fpfuEptPJd_IiqXhTo7txC169J0Sl85RKw/5k5esv6C0Tk.jpg?size=1281x866&quality=96&sign=24208f950364739a9f527b2d56566baf&type=album)
 
 Команды:
