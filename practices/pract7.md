@@ -2,7 +2,7 @@
 
 # Задача 1
 Реализовать с помощью математического языка LaTeX нижеприведенную формулу:
-![alt-text](https://sun9-56.userapi.com/impg/K1uZw0zI7DqYlYQuhudESRTp8fBnhrVEyUjT5A/o51mgH_VrgM.jpg?size=1165x330&quality=96&sign=68781bc1ca75dbf455d13dbaec18c418&type=album)
+![image](https://github.com/user-attachments/assets/6ef2002f-24ee-412b-8edf-39576deb7c1b)
 Прислать код на LaTeX и картинку-результат, где, помимо формулы, будет указано ФИО студента.
 
 # Задача 2
